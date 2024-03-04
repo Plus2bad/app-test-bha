@@ -1,0 +1,35 @@
+>>>>>>>>>>>>>>>>> Coté magasin
+
+Lucas
+- Faire le systeme de "Valider et Générer" / "Refuser" sur les bons de reduc
+
+>>>>>>>>>>>>>>>>> Coté centrale
+
+<<<<<<< HEAD
+- Revoir la page toutes les générations
+
+- Gérer les details avec "validé et gen" / "refuser" de toutes les gen
+
+- Faire un filtre "magasin"
+
+- La même sur les autres gen
+
+- Gérer le changement de CGU dans les paramètres
+
+- Gérer l'envoie d'Email !!!
+
+- Ajouter un champs pour changer l'émail centrale (pour au dessus)
+
+OK. - Revoir la page toutes les générations
+
+- Gérer les details avec "validé et gen" / "refuser" de toutes les gen
+
+OK. - Faire un filtre "magasin"
+
+OK. - La même sur les autres gen
+
+OK. - Gérer le changement de CGU dans les paramètres
+
+OK. - Gérer l'envoie d'Email !!!
+
+OK. - Ajouter un champs pour changer l'émail centrale (pour au dessus)
